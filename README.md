@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my portfolio.
+This is my portfolio. It uses Bootstrap, JavaScript and HTML.
